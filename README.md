@@ -1,2 +1,2 @@
 # react-typescript-app
-A started React Typescript App for learning purpose.
+A starter React Typescript App for learning purpose.
